@@ -8,21 +8,21 @@ Console.WriteLine();
 //     Console.WriteLine("Arg: {0}", args[i]);
 // }
 
-foreach (string arg in args)
-{
-    Console.WriteLine("Arg: {0}", arg);
-}
+// foreach (string arg in args)
+// {
+//     Console.WriteLine("Arg: {0}", arg);
+// }
 // Console.ReadLine();
-Console.WriteLine("========");
+// Console.WriteLine("========");
 
 // Get arguments using System.Environment.
-string[] theArgs = Environment.GetCommandLineArgs();
-foreach (string arg in theArgs)
-{
-    Console.WriteLine("Arg: {0}", arg);
-}
+// string[] theArgs = Environment.GetCommandLineArgs();
+// foreach (string arg in theArgs)
+// {
+//     Console.WriteLine("Arg: {0}", arg);
+// }
 
-ShowEnvironmentDetails();
+// ShowEnvironmentDetails();
 
 // Local method within the Top-level statements
 
@@ -41,5 +41,9 @@ static void ShowEnvironmentDetails()
 
 // Wait for Enter key to be pressed before shutting down.
 // Console.ReadLine();
+
 // BasicIO.GetUserData();
-BasicIO.FormatNumericalData();
+// BasicIO.FormatNumericalData();
+
+BasicDataTypes.LocalVarDeclarations();
+BasicDataTypes.DefaultDeclarations();
