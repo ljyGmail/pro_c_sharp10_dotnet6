@@ -57,4 +57,15 @@ static void ShowEnvironmentDetails()
 // BasicDataTypes.UseDatesAndTimes();
 // BasicDataTypes.UseBigInteger();
 // BasicDataTypes.DigitSeparators();
-BasicDataTypes.BinaryLiterals();
+// BasicDataTypes.BinaryLiterals();
+
+// FunWithStrings.BasicStringFunctionality();
+// FunWithStrings.StringConcatenation();
+// FunWithStrings.EscapeChars();
+// FunWithStrings.StringInterpolationWithDefaultInterpolatedStringHandler();
+// FunWithStrings.VerbatimStrings();
+// FunWithStrings.StringEquality();
+// FunWithStrings.StringEqualitySpecifyingCompareRules();
+// FunWithStrings.StringsAreImmutable();
+// FunWithStrings.StringsAreImmutable2();
+FunWithStrings.FunWithStringBuilder();
