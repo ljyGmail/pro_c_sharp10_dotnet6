@@ -45,5 +45,16 @@ static void ShowEnvironmentDetails()
 // BasicIO.GetUserData();
 // BasicIO.FormatNumericalData();
 
-BasicDataTypes.LocalVarDeclarations();
-BasicDataTypes.DefaultDeclarations();
+// BasicDataTypes.LocalVarDeclarations();
+// BasicDataTypes.DefaultDeclarations();
+// BasicDataTypes.NewingDataTypes();
+// BasicDataTypes.NewingDataTypesWith9();
+// BasicDataTypes.ObjectFunctionality();
+// BasicDataTypes.DataTypeFunctionality();
+// BasicDataTypes.CharFunctionality();
+// BasicDataTypes.ParseFromString();
+// BasicDataTypes.ParseFromStringWithTryParse();
+// BasicDataTypes.UseDatesAndTimes();
+// BasicDataTypes.UseBigInteger();
+// BasicDataTypes.DigitSeparators();
+BasicDataTypes.BinaryLiterals();
