@@ -68,4 +68,9 @@ static void ShowEnvironmentDetails()
 // FunWithStrings.StringEqualitySpecifyingCompareRules();
 // FunWithStrings.StringsAreImmutable();
 // FunWithStrings.StringsAreImmutable2();
-FunWithStrings.FunWithStringBuilder();
+// FunWithStrings.FunWithStringBuilder();
+
+// NarrowingWideningDataTypeConversions.Main();
+// NarrowingWideningDataTypeConversions.ProcessBytes();
+// NarrowingWideningDataTypeConversions.ProcessBytes2();
+NarrowingWideningDataTypeConversions.ProcessBytes3();
