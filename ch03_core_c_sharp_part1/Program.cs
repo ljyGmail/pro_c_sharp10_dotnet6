@@ -43,4 +43,25 @@ Console.WriteLine();
 // ImplicitlyTypedLocalVars.DeclareImplicitVars();
 // ImplicitlyTypedLocalVars.DeclareImplicitNumerics();
 // ImplicitlyTypedLocalVars.ImplicitTypingIsStringTyping();
-ImplicitlyTypedLocalVars.LinqQueryOverInts();
+// ImplicitlyTypedLocalVars.LinqQueryOverInts();
+
+// IterationsAndDecisions.ForLoopExample();
+// IterationsAndDecisions.ForEachLoopExamle();
+// IterationsAndDecisions.LinqQueryOverInts();
+// IterationsAndDecisions.WhileLoopExample();
+// IterationsAndDecisions.DoWhileLoopExample();
+
+// DecisionConstructs.IfElseExample();
+// DecisionConstructs.IfElsePatternMatching();
+// DecisionConstructs.IfElsePatternMatchingUpdatedInCSharp9();
+// DecisionConstructs.ExecuteIfElseUsingConditionalOperator();
+// DecisionConstructs.ConditionalRefExample();
+// DecisionConstructs.SwitchExample();
+// DecisionConstructs.SwitchOnStringExample();
+// DecisionConstructs.SwitchOnEnumExample();
+// DecisionConstructs.SwitchWithGoto();
+// DecisionConstructs.ExecutePatternMatchingSwitch();
+// DecisionConstructs.ExecutePatternMatchingSwitchWithWhen();
+// Console.WriteLine(DecisionConstructs.FromRainbowClassic("Yellow"));
+// Console.WriteLine(DecisionConstructs.FromRainbow("Orange"));
+// Console.WriteLine(DecisionConstructs.RockPaperScissors("rock", "paper"));
