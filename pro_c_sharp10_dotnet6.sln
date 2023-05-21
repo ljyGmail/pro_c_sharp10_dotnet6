@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch03_core_c_sharp_part1", "ch03_core_c_sharp_part1\ch03_core_c_sharp_part1.csproj", "{B51396AF-2C21-4B62-9E60-C7021F156785}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch04_core_c_sharp_part2", "ch04_core_c_sharp_part2\ch04_core_c_sharp_part2.csproj", "{377796F2-699A-4E36-9095-511DA5C50043}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{B51396AF-2C21-4B62-9E60-C7021F156785}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B51396AF-2C21-4B62-9E60-C7021F156785}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B51396AF-2C21-4B62-9E60-C7021F156785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{377796F2-699A-4E36-9095-511DA5C50043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{377796F2-699A-4E36-9095-511DA5C50043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{377796F2-699A-4E36-9095-511DA5C50043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{377796F2-699A-4E36-9095-511DA5C50043}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
