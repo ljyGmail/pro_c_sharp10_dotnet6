@@ -6,7 +6,7 @@ class NarrowingWideningDataTypeConversions
     }
 
 
-    public static void Main()
+    public static void Demo()
     {
         // Add two shorts and print the result.
         // short numb1 = 9, numb2 = 10;

@@ -34,7 +34,7 @@ Console.WriteLine();
 // FunWithStrings.StringsAreImmutable2();
 // FunWithStrings.FunWithStringBuilder();
 
-// NarrowingWideningDataTypeConversions.Main();
+// NarrowingWideningDataTypeConversions.Demo();
 // NarrowingWideningDataTypeConversions.ProcessBytes();
 // NarrowingWideningDataTypeConversions.ProcessBytes2();
 // NarrowingWideningDataTypeConversions.ProcessBytes3();
