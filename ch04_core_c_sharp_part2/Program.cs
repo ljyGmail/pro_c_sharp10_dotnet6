@@ -8,4 +8,6 @@
 // FunWithArrays.JaggedMultidimensionalArray();
 // FunWithArrays.PassAndReceiveArrays();
 // FunWithArrays.SystemArrayFunctionality();
-FunWithArrays.UsingIndicesAndRanges();
+// FunWithArrays.UsingIndicesAndRanges();
+
+FunWithMethods.Add(1, 2);
