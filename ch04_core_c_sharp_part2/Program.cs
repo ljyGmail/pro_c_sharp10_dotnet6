@@ -10,4 +10,34 @@
 // FunWithArrays.SystemArrayFunctionality();
 // FunWithArrays.UsingIndicesAndRanges();
 
-FunWithMethods.Add(1, 2);
+// FunWithMethods.Add(1, 2);
+
+// Pass two variables in by value
+// int x = 9, y = 10;
+// Console.WriteLine("Before call: X: {0}, Y: {1}", x, y);
+// Console.WriteLine("Answer is: {0}", FunWithMethodParameters.Add(x, y));
+// Console.WriteLine("After call: X: {0}, Y: {1}", x, y);
+
+// int ans;
+// FunWithMethodParameters.AddUsingOutParam(90, 90, out ans);
+// Console.WriteLine("Answer is {0}", ans);
+
+// Starting with C# 7.0, out parameters do not need to be declared before using them.
+// FunWithMethodParameters.AddUsingOutParam(90, 90, out int ans);
+// Console.WriteLine("90 + 90 = {0}", ans);
+
+// FunWithMethodParameters.FillTheseValues(out int i, out string str, out bool b);
+
+// Console.WriteLine("Int is: {0}", i);
+// Console.WriteLine("String is: {0}", str);
+// Console.WriteLine("Boolean is: {0}", b);
+
+// This only gets the value of a, and ignores the other two parameters.
+// FunWithMethodParameters.FillTheseValues(out int a, out _, out _);
+// Console.WriteLine($"The value of a is {a}");
+
+// string str1 = "Flip";
+// string str2 = "Flop";
+// Console.WriteLine("Before: {0}, {1}", str1, str2);
+// FunWithMethodParameters.SwapStrings(ref str1, ref str2);
+// Console.WriteLine("After: {0}, {1}", str1, str2);
