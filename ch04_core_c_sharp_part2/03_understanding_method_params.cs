@@ -153,8 +153,8 @@ class FunWithMethodParameters
     */
 
     // OK, if only one method uses in, ref, or out, the compiler can distinguish between the signatures.
-    public static int Multiply(ref int x) { return 0; };
-    public static int Multiply(int x) { return 0; };
+    public static int Multiply(ref int x) { return 0; }
+    public static int Multiply(int x) { return 0; }
 
     // Checking Parameters for Null (Updated 10.0)
     public static void EnterLogData2(string message, string owner = "Programmer")

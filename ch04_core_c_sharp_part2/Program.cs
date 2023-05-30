@@ -95,3 +95,7 @@ FunWithMethodParameters.DisplayFancyMessage(textColor: ConsoleColor.White,
 
 // Calls double version of Multiply()
 // Console.WriteLine(FunWithMethodParameters.Multiply(4.3, 4.4));.
+
+// FunWithEnums.Entry();
+
+FunWithBitwiseOperations.Entry();
